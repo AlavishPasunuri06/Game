@@ -1,3 +1,5 @@
+![MatchGame](https://github.com/AlavishPasunuri06/MatchGame/assets/142849206/97b31623-d589-45ff-980e-33ddd5a056d7)
+
 # Match Game Project
 
 The Match Game project is an engaging and interactive web-based memory game that challenges players to match pairs of cards. This project showcases the power of JavaScript to create a fun and entertaining user experience while also testing players' memory skills.
